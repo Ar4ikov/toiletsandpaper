@@ -1,7 +1,12 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toiletsandpaper&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toiletsandpaper&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toiletsandpaper&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toiletsandpaper&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toiletsandpaper&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toiletsandpaper&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toiletsandpaper&theme=dracula&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=toiletsandpaper)
 
 
 
